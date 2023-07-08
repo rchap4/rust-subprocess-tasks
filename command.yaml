@@ -1,7 +1,6 @@
 ---
-command: ls
-# args:
-#   - /home/roar
-#   - -size
-#   - +5M
-#   - -print
+command: dig
+args:
+  - +short
+  - mpip.opendns.com
+  - @resolver1.opendns.com
