@@ -1,0 +1,7 @@
+---
+command: ls
+# args:
+#   - /home/roar
+#   - -size
+#   - +5M
+#   - -print
